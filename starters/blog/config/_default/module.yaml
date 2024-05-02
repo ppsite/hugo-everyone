@@ -1,0 +1,2 @@
+imports:
+  - path: github.com/ppsite/hugo-everyone/modules/hugo-starter
